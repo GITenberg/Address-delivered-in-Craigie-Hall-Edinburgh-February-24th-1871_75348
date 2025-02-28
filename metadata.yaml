@@ -1,5 +1,8 @@
 _repo: Address-delivered-in-Craigie-Hall-Edinburgh-February-24th-1871_75348
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75348-h/images/cover.jpg
 creator:
   author:
     agent_name: Butler, Josephine Elizabeth Grey
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5456
     wikipedia: https://en.wikipedia.org/wiki/Josephine_Butler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75348#Address-delivered-in-Craigie-Hall-Edinburgh-February-24th-1871
 gutenberg_issued: '2025-02-11'
 gutenberg_type: Text
 identifiers:
